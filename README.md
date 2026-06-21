@@ -52,5 +52,3 @@ Dishita Goswami
 
 ⭐ If you found this project useful, give it a star!
 
-
-Also, before pushing to GitHub, rename your class from `guessgame` to **`GuessGame`** (J
