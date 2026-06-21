@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class guessgame {
+public class GuessGame {
     public static void main(String[] args) {
         Random ran= new Random();
         int secrtenum=ran.nextInt(50)+1;
