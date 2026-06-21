@@ -18,9 +18,39 @@ A simple Java console-based game where the player tries to guess a randomly gene
 - Scanner Class
 - Random Class
 
-## 🚀 How to Run
+📸 Sample Output
+Welcome to Number Guessing Game
+Guess a number:
+25
 
-1. Clone the repository
+Too Low
+Guess again:
+35
 
-```bash
-git clone https://github.com/your-username/Number-Guessing-Game.git
+Too High
+Guess again:
+30
+
+You Win
+Your Total attempts: 3
+End
+📚 Concepts Used
+Variables
+Loops (while)
+Conditional Statements (if-else)
+Random Number Generation
+User Input Handling
+🔮 Future Improvements
+Difficulty Levels
+Limited Attempts Mode
+Score System
+Play Again Option
+High Score Tracking
+👩‍💻 Author
+
+Dishita Goswami
+
+⭐ If you found this project useful, give it a star!
+
+
+Also, before pushing to GitHub, rename your class from `guessgame` to **`GuessGame`** (J
